@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "greeting-wp-client-side-solution",
+    "id": "5b5c79e9-e8f3-4b7a-a1b7-3886b1128a9b",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.19.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "greetingWP description"
+      },
+      "longDescription": {
+        "default": "greetingWP description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "greeting-wp Feature",
+        "description": "The feature that activates elements of the greeting-wp solution.",
+        "id": "a0bcce4b-9036-4132-9c49-e8663ebace64",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/greeting-wp.sppkg"
+  }
+}

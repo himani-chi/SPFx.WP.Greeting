@@ -1,0 +1,42 @@
+.greetingWp1 {
+  
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  background-color: #f4f4f4;
+  border: 1px solid #dcdcdc;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.row {
+  width: 100%;
+}
+
+.column {
+  margin: 0 auto;
+  display: inline-block;
+}
+
+.title {
+  font-size: 24px;
+  color: #005a9e; // SharePoint blue
+}
+
+.subTitle {
+  font-size: 18px;
+  color: #333;
+}
+
+.description {
+  font-size: 14px;
+  color: #666;
+}
