@@ -12,9 +12,9 @@ Welcome to the SPFx Greeting Web Part repository! This project is a SharePoint F
 
 Before deploying and running this web part, ensure you have the following:
 
-- SharePoint Online subscription or SharePoint 2019+ for on-premises.
-- Node.js version 10.x or higher.
-- SharePoint Framework (SPFx) development environment set up.
+- SharePoint Online subscription.
+- Node.js LTS version 18.x or higher.
+- SharePoint Framework (SPFx) development environment [set up](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-development-environment).
 
 ## Getting Started
 
