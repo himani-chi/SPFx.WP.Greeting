@@ -25,17 +25,17 @@ To get started with this project, follow these steps:
    ```bash
    git clone https://github.com/himani-chi/SPFx.WP.Greeting.git
 
-3. **Navigate to the project directory**
+2. **Navigate to the project directory**
 
    ```bash
    cd SPFx.WP.Greeting       
   
-6. **Install dependencies:**
+3. **Install dependencies:**
 
    ```bash
    npm install
    
-7. **Serve the solution locally:**
+4. **Serve the solution locally:**
 
    ```bash
    gulp serve
